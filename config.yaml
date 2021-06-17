@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://swc-will.netlify.app/
 languageCode: en-us
 title: Will's new title
 theme: hugo-lithium
@@ -20,7 +20,7 @@ menu:
       url: /cv/
     - name: GitHub
       url: https://github.com/rstudio/wmurraygithub
-    - name: Twitterhead
+    - name: Twit
       url: https://twitter.com/rstudio
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
