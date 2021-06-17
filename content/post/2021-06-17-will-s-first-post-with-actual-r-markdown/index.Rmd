@@ -1,0 +1,19 @@
+---
+title: Will's first post with actual R Markdown
+author: Will, still
+date: '2021-06-17'
+slug: will-s-first-post-with-actual-r-markdown
+categories:
+  - Awesomeness
+  - R
+tags:
+  - hot
+  - plot
+---
+
+Well, here goes with the plot:
+```{r}
+plot(cars)
+```
+
+Truly, that was fantabulous.
